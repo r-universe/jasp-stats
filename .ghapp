@@ -1,0 +1,10 @@
+{
+  "id": 142063399,
+  "created_at": "2026-06-23T07:44:21.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["jaspSyntax", "jasp-stats.r-universe.dev"]
+}
