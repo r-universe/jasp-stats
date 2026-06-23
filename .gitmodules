@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jasp-stats/jasp-stats.r-universe.dev
 	branch = HEAD
+[submodule "jaspSyntax"]
+	path = jaspSyntax
+	url = https://github.com/jasp-stats/jaspSyntax
